@@ -1,9 +1,11 @@
 # Non-Health and Safety Issues in the GMO Controversy
 ## A Bibliography
 ### Compiled by Dan Hicks, Philosophy, University of Western Ontario
-### [hicks.daniel.j@gmail.com]()
-#### Thanks to Kelly Bronson for suggesting contributions.  
+### [hicks.daniel.j@gmail.com](mailto:hicks.daniel.j@gmail.com)
 
+Thanks to Kelly Bronson for suggesting contributions.  Scroll to the bottom if you need help.  
+
+## Bibliography
 
 * Altieri, Miguel A, and P Rosset. “Ten Reasons Why Biotechnology Will Not Ensure Food Security, Protect the Environment and Reduce Poverty in the Developing World.” *AgBioForum* 2, no. 3 (1999): 155–162.
 
@@ -106,3 +108,12 @@
 * Thompson, Paul B. “The GMO Quandary and What It Means for Social Philosophy.” *Social Philosophy Today*, 2014. doi:10.5840/socphiltoday201461210.
 
 * Timmermann, Cristian. “Pesticides and the Patent Bargain.” Journal of Agricultural and Environmental Ethics, August 10, 2014, 1–19. doi:10.1007/s10806-014-9515-x.
+
+## Help! 
+
+This document is hosted on GitHub at [https://github.com/dhicks/GMcontroversy]().  To download your own copy, first make sure you're on [this page](https://github.com/dhicks/GMcontroversy/blob/master/readme.md).  *Right-click* the "Raw" button at the top of the file, and select "Save As..."  
+
+There are two ways to contribute:  
+
+1. Email me with suggestions at [hicks.daniel.j@gmail.com](mailto:hicks.daniel.j@gmail.com).  
+2. Using GitHub, fork this repository, make your own changes, and submit a pull request to me.  GitHub is based on Git, which by itself is an amazing tool for version control and collaboration.  GitHub adds a nice user interface and makes it easy for anyone to contribute to a project.  There's a bit of a learning curve, but it's easy to find lots of tutorials on Git and GitHub; [here's one nice one](http://readwrite.com/2013/09/30/understanding-github-a-journey-for-beginners-part-1).  
