@@ -3,7 +3,7 @@
 ### Compiled by Dan Hicks, Philosophy, University of Western Ontario
 ### [hicks.daniel.j@gmail.com](mailto:hicks.daniel.j@gmail.com)
 
-Thanks to Kelly Bronson for suggesting contributions.  Scroll to the bottom if you need help.  
+Thanks to Kelly Bronson for suggesting contributions.  Click or scroll down for [help](#help).  
 
 ## Bibliography
 
@@ -109,7 +109,7 @@ Thanks to Kelly Bronson for suggesting contributions.  Scroll to the bottom if y
 
 * Timmermann, Cristian. “Pesticides and the Patent Bargain.” Journal of Agricultural and Environmental Ethics, August 10, 2014, 1–19. doi:10.1007/s10806-014-9515-x.
 
-## Help! 
+## Help! <a name="help"></a>
 
 This document is hosted on GitHub at [https://github.com/dhicks/GMcontroversy]().  To download your own copy, first make sure you're on [this page](https://github.com/dhicks/GMcontroversy/blob/master/readme.md).  *Right-click* the "Raw" button at the top of the file, and select "Save As..."  
 
